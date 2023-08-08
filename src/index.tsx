@@ -13,7 +13,7 @@ import { error404, errorGeneral } from 'data';
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/intro',
     element: <Main />,
     errorElement: <ErrorPage {...errorGeneral} />,
     children: [
