@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.a34730bb.js",
+    "main.js": "/static/js/main.beca091a.js",
     "static/media/me.jpeg": "/static/media/me.524fb270e2f762fe9602.jpeg",
     "static/media/bodybuilding.jpg": "/static/media/bodybuilding.29f24e3cd93270ccd8d7.jpg",
     "static/media/react.png": "/static/media/react.2f2532db663fd5ec5f95.png",
@@ -9,9 +9,9 @@
     "static/media/marcus-aurelius.jpg": "/static/media/marcus-aurelius.31cee94bc4a20da32a7c.jpg",
     "static/media/ltglink.png": "/static/media/ltglink.2810744a79974a678303.png",
     "index.html": "/index.html",
-    "main.a34730bb.js.map": "/static/js/main.a34730bb.js.map"
+    "main.beca091a.js.map": "/static/js/main.beca091a.js.map"
   },
   "entrypoints": [
-    "static/js/main.a34730bb.js"
+    "static/js/main.beca091a.js"
   ]
 }
