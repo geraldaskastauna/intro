@@ -16,12 +16,12 @@ export default function Landing() {
         {landing.description}
       </Text>
       <Group position='center' className={classes.controls}>
-        <Link to='#contact'>
+        <Link to='/intro/#contact'>
           <Button size='xl' className={classes.control} variant='gradient'>
             Contact
           </Button>
         </Link>
-        <Link to='#skills'>
+        <Link to='/intro/#skills'>
           <Button size='xl' variant='default' className={classes.control}>
             Expertise
           </Button>

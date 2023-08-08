@@ -27,12 +27,12 @@ export const landing: Landing = {
 };
 
 export const links: Links = [
-  { link: '/#home', label: 'Home' },
-  { link: '/#career', label: 'Career' },
-  { link: '/#skills', label: 'Skills' },
-  { link: '/#about', label: 'About' },
-  { link: '/#now', label: 'Now' },
-  { link: '/#contact', label: 'Contact' },
+  { link: '/intro/#home', label: 'Home' },
+  { link: '/intro/#career', label: 'Career' },
+  { link: '/intro/#skills', label: 'Skills' },
+  { link: '/intro/#about', label: 'About' },
+  { link: '/intro/#now', label: 'Now' },
+  { link: '/intro/#contact', label: 'Contact' },
 ];
 
 export const career: Career = [
@@ -117,15 +117,15 @@ export const footer: Footer = [
     links: [
       {
         label: 'Career',
-        link: '/#career',
+        link: '/intro/#career',
       },
       {
         label: 'Skills',
-        link: '/#skills',
+        link: '/intro/#skills',
       },
       {
         label: 'Now',
-        link: '/#now',
+        link: '/intro/#now',
       },
     ],
   },
