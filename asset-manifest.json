@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/intro/static/js/main.63f554bd.js",
+    "static/media/me.jpeg": "/intro/static/media/me.524fb270e2f762fe9602.jpeg",
+    "static/media/bodybuilding.jpg": "/intro/static/media/bodybuilding.29f24e3cd93270ccd8d7.jpg",
+    "static/media/react.png": "/intro/static/media/react.2f2532db663fd5ec5f95.png",
+    "static/media/american-football.jpeg": "/intro/static/media/american-football.e690c7b82a0d14094427.jpeg",
+    "static/media/future.png": "/intro/static/media/future.b7e7a3a2e6c76a66634f.png",
+    "static/media/marcus-aurelius.jpg": "/intro/static/media/marcus-aurelius.31cee94bc4a20da32a7c.jpg",
+    "static/media/ltglink.png": "/intro/static/media/ltglink.2810744a79974a678303.png",
+    "index.html": "/intro/index.html",
+    "main.63f554bd.js.map": "/intro/static/js/main.63f554bd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.63f554bd.js"
+  ]
+}
