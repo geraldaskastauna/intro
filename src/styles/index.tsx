@@ -15,18 +15,12 @@ export const useAboutStyles = createStyles(theme => ({
     flexFlow: 'wrap',
     justifyContent: 'space-around',
   },
-
-  carouselIndicator: {
-    '&[data-active]': {
-      width: rem(200),
-    },
-  },
 }));
 
 export const useAboutCardStyles = createStyles({
   group: {
     display: 'flex',
-    flexDirection: 'column',
+    justifyContent: 'space-around',
   },
 });
 
