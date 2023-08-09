@@ -111,26 +111,6 @@ export const about: About = [
   },
 ];
 
-export const footer: Footer = [
-  {
-    title: 'About',
-    links: [
-      {
-        label: 'Career',
-        link: '/intro/#career',
-      },
-      {
-        label: 'Skills',
-        link: '/intro/#skills',
-      },
-      {
-        label: 'Now',
-        link: '/intro/#now',
-      },
-    ],
-  },
-];
-
 export const contact: Contact = {
   avatar: images.meImg,
   name: 'Geraldas Kaštauna',
