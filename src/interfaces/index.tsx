@@ -24,7 +24,7 @@ export type About = {
   category: string;
   color: string;
   description: string;
-}[];
+};
 
 export type Links = {
   link: string;

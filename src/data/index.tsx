@@ -6,7 +6,6 @@ import {
   type Now,
   type Skill,
   type SkillsGrid,
-  type Footer,
   type Career,
   type Error,
 } from 'interfaces';
@@ -78,20 +77,20 @@ export const skills: Skill[] = [
   },
 ];
 
-export const about: About = [
+export const about: About[] = [
   {
     image: images.marcusAureliusImg,
     title: 'Philosophy',
     category: 'Hobbies',
     color: 'yellow',
-    description: 'In the past year, my interest has been piqued by Philosophy, particularly focusing on the study of stoicism.',
+    description: 'Over the past year, I\'ve found myself increasingly drawn to the realm of Philosophy. In particular, I\'ve been focusing my studies on the principles of stoicism, intrigued by its timeless wisdom and practical guidance for navigating life\'s complexities.',
   },
   {
     image: images.reactImg,
     title: 'Development',
     category: 'Technology',
     color: 'red',
-    description: 'Commenced my journey in delving into the React framework with the goal of evolving into a skilled full-stack developer.',
+    description: 'I began my practical exploration of the React framework, aiming to advance my capabilities and eventually transition into a proficient full-stack developer role. This endeavor is fueled by a pragmatic desire to cultivate a well-rounded skill set encompassing both front-end and back-end development expertise.',
   },
   {
     image: images.bodybuldingImg,

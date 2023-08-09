@@ -10,15 +10,15 @@ export default function AboutCard({ image, title, category, color, description }
   return (
     <Card shadow='sm' padding='lg' radius='xl' ml='sm' mr='sm' mb='xl'>
       <Card.Section component='a' withBorder>
-        <Image onClick={open} fit='cover' height={150} src={image} />
+        <Image onClick={open} fit='cover' height={200} src={image} />
         <Modal onClose={close} size='xl' opened={opened} centered>
           <Image onClick={open} src={image} />
         </Modal>
       </Card.Section>
 
       <Group className={classes.group} mt='md' mb='xs'>
-        <Badge color={color}>{category}</Badge>
         <Text weight={500}>{title}</Text>
+        <Badge color={color}>{category}</Badge>
       </Group>
 
       <Text size='sm' color='dimmed'>
