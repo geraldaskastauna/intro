@@ -68,7 +68,7 @@ export const skills: Skill[] = [
   {
     icon: IconBrandReact,
     title: 'Front-end',
-    description: 'Commenced the journey of mastering the React framework to craft captivating user interactions.',
+    description: 'With a keen focus on enhancing my skill set, I\'ve recently delved into learning the React framework.',
   },
   {
     icon: IconDeviceAnalytics,
@@ -131,7 +131,7 @@ export const now: Now = [
   },
   {
     icon: IconBusinessplan,
-    title: 'Side hustle',
+    title: 'Complementary work',
     description: 'Actively exploring business and freelance avenues while applying my skillset to craft innovative projects.',
   },
 ];
