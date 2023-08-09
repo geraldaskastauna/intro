@@ -78,7 +78,7 @@ export const skills: Skill[] = [
   },
 ];
 
-export const about: About = [
+export const about: About[] = [
   {
     image: images.marcusAureliusImg,
     title: 'Philosophy',
