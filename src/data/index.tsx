@@ -68,7 +68,7 @@ export const skills: Skill[] = [
   {
     icon: IconBrandReact,
     title: 'Front-end',
-    description: 'With a keen focus on enhancing my skill set, I\'ve recently delved into learning the React framework.',
+    description: "With a keen focus on enhancing my skill set, I've recently delved into learning the React framework.",
   },
   {
     icon: IconDeviceAnalytics,
@@ -83,14 +83,16 @@ export const about: About[] = [
     title: 'Philosophy',
     category: 'Hobbies',
     color: 'yellow',
-    description: 'Over the past year, I\'ve found myself increasingly drawn to the realm of Philosophy. In particular, I\'ve been focusing my studies on the principles of stoicism, intrigued by its timeless wisdom and practical guidance for navigating life\'s complexities.',
+    description:
+      "Over the past year, I've found myself increasingly drawn to the realm of Philosophy. In particular, I've been focusing my studies on the principles of stoicism, intrigued by its timeless wisdom and practical guidance for navigating life's complexities.",
   },
   {
     image: images.reactImg,
     title: 'Development',
     category: 'Technology',
     color: 'red',
-    description: 'I began my practical exploration of the React framework, aiming to advance my capabilities and eventually transition into a proficient full-stack developer role. This endeavor is fueled by a pragmatic desire to cultivate a well-rounded skill set encompassing both front-end and back-end development expertise.',
+    description:
+      'I began my practical exploration of the React framework, aiming to advance my capabilities and eventually transition into a proficient full-stack developer role. This endeavor is fueled by a pragmatic desire to cultivate a well-rounded skill set encompassing both front-end and back-end development expertise.',
   },
   {
     image: images.bodybuldingImg,
