@@ -78,12 +78,8 @@ export const useFooterStyles = createStyles(theme => ({
 
   inner: {
     display: 'flex',
-    justifyContent: 'space-between',
-
-    [theme.fn.smallerThan('sm')]: {
-      flexDirection: 'column',
-      alignItems: 'center',
-    },
+    justifyContent: 'space-around',
+    alignItems: 'center',
   },
 
   groups: {
