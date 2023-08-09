@@ -131,7 +131,7 @@ export const now: Now = [
   },
   {
     icon: IconBusinessplan,
-    title: 'Side hustle',
+    title: 'Complementary work',
     description: 'Actively exploring business and freelance avenues while applying my skillset to craft innovative projects.',
   },
 ];
