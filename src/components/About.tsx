@@ -25,8 +25,12 @@ export default function About() {
       <Carousel
         withIndicators
         loop
-        className={classes.carouselIndicator}
+        dragFree
         slideSize={'50%'}
+        ml={100}
+        mr={100}
+        height="auto"
+        slidesToScroll={mobile ? 1 : 2}
         breakpoints={[
           {
             maxWidth: 'sm',
@@ -34,9 +38,6 @@ export default function About() {
             slideGap: rem(3),
           },
         ]}
-        ml={50}
-        mr={50}
-        slidesToScroll={mobile ? 1 : 2}
       >
         {slides}
       </Carousel>
