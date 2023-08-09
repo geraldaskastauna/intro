@@ -27,9 +27,8 @@ export default function About() {
         loop
         dragFree
         slideSize={'50%'}
-        ml={100}
-        mr={100}
-        height="auto"
+        ml={mobile ? 25 : 100}
+        mr={mobile ? 25 : 100}
         slidesToScroll={mobile ? 1 : 2}
         breakpoints={[
           {
